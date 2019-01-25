@@ -1,0 +1,5 @@
+#Question
+Create a SSIS package to load the data. Again using the wizard to learn is fine but you need to make a package in ssis from scratch.
+
+#Solution
+SSIS package is created named as ImpHREmp.dtsx
