@@ -1,8 +1,0 @@
-#Question 1
-
-Export the HumanResources.Employee table from AdventureWorks.  If you use the wizard to learn that is fine but you must create a SSIS package in the SQL Server Data Tools / Visual studio environment.
-
-#Solution
-
-HR employee Dataset is exported to a Flat File named : Employee_Data_HR 
-SSIS package : ExHREmp.dtsx
