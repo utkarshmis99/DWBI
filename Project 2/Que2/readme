@@ -1,1 +1,10 @@
+#Question 
 
+Create a script for staging table for importing the employee data. Remember staging tables are less restrictive.  You can use the existing table as a template but should rename it and consider the contraints and data types during the design.
+
+#Solution
+
+Script to create the Staging Table : Employee_Staging.txt
+Constarints :
+1. Allow NULL for OrganizationNode, OrganizationLevel.
+2. Set Primary Key as BusinessEntityId
